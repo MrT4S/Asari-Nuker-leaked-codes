@@ -1,0 +1,30 @@
+{
+  "name": "Asari Nuker",
+  "version": "1.0.0",
+  "description": "Asari Nuker leaked codes",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node nuker.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Asari",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "enmap": "^0.3.2",
+    "express": "^4.15.5",
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0"
+  }
+}
