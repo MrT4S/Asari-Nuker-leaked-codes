@@ -12,8 +12,11 @@
 - Run install.bat file to install discord.js (required to run nuker.js codes)
 - Lastly, run launch.bat!
 # NUKER COMMANDS
-- 
-# EXTRA
+- .deleteall - Deletes all channels & roles!
+= .banall - Bans every user/bots in the guild!
+- .nuke - Nukes the whole guild!
+- .dmall - Direct Messages all users
+# SOME MORE SHIT
 - You customize your own mass dm message in line 57 at nuker.js file!
 - And don't really suggest configuring anything else other than ur prefix in each cmd if u want.
 - Lastly, tell those sped kids nuking isn't against [Discord ToS](https://discord.com/terms) read it yourself if you want.
