@@ -11,6 +11,8 @@
  
 - Run install.bat file to install discord.js (required to run nuker.js codes)
 - Lastly, run launch.bat!
+# NUKER COMMANDS
+- 
 # EXTRA
 - You customize your own mass dm message in line 57 at nuker.js file!
 - And don't really suggest configuring anything else other than ur prefix in each cmd if u want.
