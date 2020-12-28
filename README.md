@@ -1,5 +1,5 @@
 # ASARI NUKER LEAKED CODES
-- Nuker Leaked by: [Syrus](https://www.youtube.com/channel/UC4mAPtgJIpj40wTkTX-oM2g)
+- Nuker codes leaked by: [Syrus](https://www.youtube.com/channel/UC4mAPtgJIpj40wTkTX-oM2g)
 - Official glitch souce: [Click Here](https://glitch.com/~asari-nuker-leak)
 - Obviously glitch is a bitch a lot of times so decided to make it launchable locally.
 - Enjoy<3
