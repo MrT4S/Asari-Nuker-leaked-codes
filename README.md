@@ -13,5 +13,6 @@
 - Lastly, run launch.bat!
 # EXTRA
 - You customize your own mass dm message in line 57 at nuker.js file!
-- And don't really suggest configuring anything else other than ur prefix in each cmd if u want
-- Enjoy wizzing ur shlong servers<33
+- And don't really suggest configuring anything else other than ur prefix in each cmd if u want.
+- Lastly, tell those sped kids nuking isn't against [Discord ToS](https://discord.com/terms) read it yourself if you want.
+- Enjoy wizzing some long shlong servers<33
