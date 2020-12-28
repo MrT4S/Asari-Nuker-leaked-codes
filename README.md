@@ -1,7 +1,7 @@
 # ASARI NUKER LEAKED CODES
 - Nuker codes leaked by: [Syrus](https://www.youtube.com/channel/UC4mAPtgJIpj40wTkTX-oM2g)
 - Official glitch souce: [Click Here](https://glitch.com/~asari-nuker-leak)
-- Obviously glitch is a bitch a lot of times so decided to make it launchable locally.
+- Obviously glitch is a bitch a lot of times so decided to make it launchable locally in your PC!
 - Enjoy<3
 # INSTALLING/HOSTING
 - Head over to config.json file and replace current bot token with your bot token between the ""!
