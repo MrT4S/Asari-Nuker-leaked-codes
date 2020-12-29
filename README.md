@@ -20,5 +20,6 @@
 - You can customize your own mass dm message in line 57 at nuker.js file!
 - And don't really suggest configuring anything else other than ur prefix in each cmd if u want.
 - Lastly, tell those sped kids nuking isn't against [Discord ToS](https://discord.com/terms) read it yourself if you want.
+- [Click here](https://www.reddit.com/r/discordapp/comments/c5dcmi/is_nuking_a_server_with_proof_bannable_as_well_as/) to view discord claiming they cant do shit to wizzers;)!
 - But yeah, I don't take no responsibility with what damage this bot will do to sped servers that don't got anti wizz!
 - Enjoy wizzing some long shlong servers<33
