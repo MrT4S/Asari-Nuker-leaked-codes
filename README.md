@@ -13,7 +13,7 @@
 - Lastly, run launch.bat!
 # NUKER COMMANDS
 - .deleteall - Deletes all channels & roles!
-= .banall - Bans every user/bots in the guild!
+- .banall - Bans every user/bots in the guild!
 - .nuke - Nukes the whole guild!
 - .dmall - Direct Messages all users
 # SOME MORE SHIT
